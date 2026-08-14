@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "toolyour",
+  "description": "Remote MCP harness for AI agents: plan, run SEO/security/ship checks, verify until pass. Same API key and credits as ToolYour REST.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ToolYour",
+    "email": "contact@toolyour.com",
+    "url": "https://www.toolyour.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "toolyour",
+    "cursor",
+    "seo",
+    "security",
+    "ship-gate",
+    "harness"
+  ]
+}

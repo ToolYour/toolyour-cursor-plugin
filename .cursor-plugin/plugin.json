@@ -1,0 +1,21 @@
+{
+  "name": "toolyour",
+  "displayName": "ToolYour MCP Harness",
+  "version": "1.0.0",
+  "description": "Remote MCP harness for Cursor: plan → run SEO, security, and ship-gate checks → verify until pass. Same API key and monthly credits as ToolYour REST.",
+  "author": {
+    "name": "ToolYour",
+    "email": "contact@toolyour.com"
+  },
+  "homepage": "https://www.toolyour.com/developers/mcp",
+  "repository": "https://github.com/ToolYour/toolyour-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "toolyour",
+    "seo",
+    "security",
+    "ship-gate",
+    "harness"
+  ]
+}

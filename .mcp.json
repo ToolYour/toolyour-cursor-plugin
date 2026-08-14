@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "toolyour": {
+      "url": "https://api.toolyour.com/mcp",
+      "headers": {
+        "X-Api-Key": "${env:TOOLYOUR_API_KEY}"
+      }
+    }
+  }
+}
