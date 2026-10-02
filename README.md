@@ -1,6 +1,6 @@
 # ToolYour Cursor plugin
 
-Cursor plugin that connects to the **ToolYour remote MCP harness**: plan → run → verify until pass.
+Cursor plugin that connects to the **ToolYour managed MCP action platform**. Discover focused actions, run outcome-based playbooks, and use plan → run → verify for supported checks.
 
 Jobs: SEO audits, security audits, ship-gate. Same API key and monthly credits as [ToolYour REST](https://www.toolyour.com/developers).
 
