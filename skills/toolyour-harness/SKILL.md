@@ -1,6 +1,6 @@
 ---
 name: toolyour-harness
-description: Run ToolYour remote MCP jobs — SEO audits, security audits, and ship-gate — with plan → run → verify until pass.
+description: Use ToolYour managed MCP actions and private-beta outcome playbooks for SEO, security, release, and developer checks with plan → run → verify.
 ---
 
 Use the ToolYour MCP server already connected in this plugin.
